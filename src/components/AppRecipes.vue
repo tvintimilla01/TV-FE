@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-12">
-          <h1>The Incredible Alejandro Recipe Cookbook</h1>
+          <h1>Tomas Recipes</h1>
           <hr />
           <br />
           <!-- Allert Message -->
